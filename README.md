@@ -1,7 +1,5 @@
 # Autogpt Agents Repository
 
-# AI Agent Repository
-
 Welcome to the AI Agent Repository! Our goal is to collect and share 100 unique examples of AI agents with a variety of applications and capabilities. These AI agents are designed to showcase the vast potential of AI to assist and enhance various aspects of our daily lives.
 
 In this repository, you'll find AI agents for health and wellness, information summarization, personal finance, learning and education, travel and events, career and job search, time management, technology and programming, home, environment and pet care, relationships, fashion and style, and music and entertainment.
